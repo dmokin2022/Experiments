@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/icons8-play-button-circled-50.png</file>
+        <file>Icons/ic_brightness_medium_black_48dp.png</file>
+        <file>Icons/ic_data_usage_black_48dp.png</file>
+        <file>Icons/ic_developer_mode_black_48dp.png</file>
+        <file>Icons/ic_devices_black_48dp.png</file>
+        <file>Icons/ic_dvr_black_48dp.png</file>
+        <file>Icons/ic_gps_fixed_black_48dp.png</file>
+        <file>Icons/ic_graphic_eq_black_36dp.png</file>
+        <file>Icons/ic_location_searching_black_48dp.png</file>
+        <file>Icons/ic_network_cell_black_48dp.png</file>
+        <file>Icons/ic_network_wifi_black_48dp.png</file>
+        <file>Icons/ic_nfc_black_48dp.png</file>
+        <file>Icons/ic_screen_lock_landscape_black_48dp.png</file>
+        <file>Icons/charge_battery.svg</file>
+        <file>Icons/radar_plot.pdf</file>
+        <file>Icons/svg/radar_plot.svg</file>
+        <file>Icons/svg/advertising.svg</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
